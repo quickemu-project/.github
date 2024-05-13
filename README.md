@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/quickemu-project/quickemu-icons/blob/main/quickemu.png" width="128" height="128">
+  <a href="https://github.com/quickemu-project/quickemu"><img src="https://github.com/quickemu-project/quickemu-icons/blob/main/quickemu.png" width="192" height="192"></a>
 </p>
 <p align="center">
   &nbsp;<a href="https://wimpysworld.io/discord" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/712850672223125565?style=for-the-badge&logo=discord&logoColor=%23ffffff&label=Discord&labelColor=%234253e8&color=%23e4e2e2"></a>&nbsp;

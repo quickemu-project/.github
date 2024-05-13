@@ -14,7 +14,7 @@ Welcome to the Quickemu Project where we make it easy to quickly create and run 
 
 - [**Quickemu**](https://github.com/quickemu-project/quickemu): Quickly create and run optimised Windows, macOS and Linux virtual machines.
 
-If you are involved in a Linux distro community you might be interested in some fast automated testing for Linux distro. For that we have Quicktest:
+If you are involved in a Linux distro community you might be **interested in some fast automated testing for Linux distros**. For that we have Quicktest:
 
 - [**Quicktest**](https://github.com/quickemu-project/quicktest): Quickly and automatically test systems inside Quickemu virtual machines
 

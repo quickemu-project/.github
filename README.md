@@ -8,17 +8,25 @@
   &nbsp;<a href="https://linkedin.com/in/martinwimpress" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1667be?style=for-the-badge&logo=linkedin&logoColor=%23ffffff"></a>&nbsp;
 </p>
 
+**As featured on [Linux Matters](https://linuxmatters.sh) podcast!** 🐧🎙️ The presenters of Linux Matters are the creators of each of the principle Quickemu projects. We discussed Quickemu's 2024 reboot in [Episode 30 - Quickemu Rising From the Bashes](https://linuxmatters.sh/30). 
+
+<div align="center">
+  <a href="https://linuxmatters.sh" target="_blank"><img src="https://github.com/wimpysworld/nix-config/raw/main/.github/screenshots/linuxmatters.png" alt="Linux Matters Podcast"/></a>
+  <br />
+  <em>Linux Matters Podcast</em>
+</div>
+
 ## Welcome 👋
 
 Welcome to the Quickemu Project where we make it easy to quickly create and run optimised Windows, macOS and Linux virtual machines.
 
-- [**Quickemu**](https://github.com/quickemu-project/quickemu): Quickly create and run optimised Windows, macOS and Linux virtual machines.
+- [**Quickemu**](https://github.com/quickemu-project/quickemu): Quickly create and run optimised Windows, macOS and Linux virtual machines from the terminal on Linux and macOS 
+- [**Quickgui**](https://github.com/quickemu-project/quickgui): An elegant Quickemu desktop frontend app for Linux and macOS created with Flutter.
 
-If you are involved in a Linux distro community you might be **interested in some fast automated testing for Linux distros**. For that we have Quicktest:
+If you're involved in a Linux distro community, you might be **interested in some fast automated testing for Linux distros**. For that we have Quicktest:
 
 - [**Quicktest**](https://github.com/quickemu-project/quicktest): Quickly and automatically test systems inside Quickemu virtual machines
 
 Other projects here include:
 
-- [**Quickgui**](https://github.com/quickemu-project/quickgui): A Flutter frontend for quickget and quickemu.
 - [**Quickemu-icons**](https://github.com/quickemu-project/quickemu-icons): Icons for the Quickemu project.
